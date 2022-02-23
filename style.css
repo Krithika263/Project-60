@@ -1,0 +1,15 @@
+body{
+    text-align: center;
+}
+h1{
+    font-size: 45px;
+    font-family: fantasy;
+}
+#Desserts{
+    width:100%;
+    height:800px;
+    background-color:lightpink;
+}
+#About Icecreams{
+    background-color: darkorchid
+}
